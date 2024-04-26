@@ -1,5 +1,5 @@
 ### Hello everyone 👋
-✨welcome to my small corner - Student majoring in Information Systems at HCMUTE
+✨welcome to my small corner - Student majoring in Information Systems at HCMUTE✨
 
 <!--
 **lananhdepgai1/lananhdepgai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
