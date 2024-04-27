@@ -18,11 +18,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-####  [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+####  [Enjoy this moment](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
-Generates a snake game from a github user contributions graph
-
-📍 For example : &nbsp;
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
