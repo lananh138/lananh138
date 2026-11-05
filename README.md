@@ -1,16 +1,61 @@
-### Pleased to meet you!
-✨welcome to my small corner - I’m a Tester and Business Analyst with a background in Information Systems from Ho Chi Minh City University of Technology and Education.✨
+# 👋 Hi there, I'm Lan Anh!
 
+✨ Welcome to my little corner of GitHub!
 
+I'm a **Software Tester** with a background in Information Technology from **Ho Chi Minh City University of Technology and Education (HCMUTE)**. I have experience in Manual Testing, API Testing, and basic Automation Testing.
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lannnnanhhhh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lananh113388) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lananh113388) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@lananh113388) 
+---
 
+## 🌐 Connect with Me
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white).![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![OrientDB](https://img.shields.io/badge/OrientDB-%23FF6600.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lannnnanhhhh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lananh113388)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lananh113388)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lananh113388)
 
-### ✍️
+---
+
+## 🧪 QA & Testing Skills
+
+- **Testing:** Manual, Functional, Regression, Smoke, Exploratory, UI Testing.
+- **API Testing:** Postman, Swagger, REST API, JSON.
+- **Automation:** Playwright (Basic).
+- **Documentation:** Test Cases, Bug Reports, Test Plans, Test Reports.
+- **Techniques:** EP, BVA.
+- **Methodologies:** SDLC, STLC, Agile/Scrum.
+
+## 💻 Tech Stack
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Testing Tools**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Other Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+- Playwright Automation Testing.
+- API Automation Testing.
+- Security Testing.
+
+---
+
+## ✍️ Favorite Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
+⭐ Thanks for visiting my profile!
